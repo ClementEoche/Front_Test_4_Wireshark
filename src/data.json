@@ -1,0 +1,569 @@
+{
+"categories": [
+    {
+      "idc": "1",
+      "titlec": "Auto-Riffle",
+      "img": "../assets/logo",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"US_Auto",
+          "products":[
+            {
+              "id":"1",
+              "name":"M4A4 22mm",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "2",
+      "titlec": "Shotgun",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"Large Shotgun",
+          "products":[
+            {
+              "id":"2",
+              "name":"Multishooting SPAS-12",
+              "weight": "none",
+              "size": "500mm",
+              "power": "20j",
+              "impactsize": "70mm",
+              "dateOfRelease":"12-02-2001",
+              "country": "Russia",
+              "shippingTime": "35 Days",
+              "price": 2500.00,
+              "quantity": 1,
+              "description":"Russian Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "3",
+      "titlec": "Sniper",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"High precision",
+          "products":[
+            {
+              "id":"3",
+              "name":"Barett-M82 50mm",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-2007",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 12000.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},{
+      "idc": "4",
+      "titlec": "Handgun",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"US High Caliber",
+          "products":[
+            {
+              "id":"4",
+              "name":"Desert Eagle 22mm",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"23-06-2000",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 800.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "5",
+      "titlec": "Learning",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"Handgun Formation",
+          "products":[
+            {
+              "id":"5",
+              "name":"D-Eagle course",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"Absolutly not accurate"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "6",
+      "titlec": "Soldiers",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"US Army Soldiers",
+          "products":[
+            {
+              "id":"6",
+              "name":"Sniper Guy",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "7",
+      "titlec": "Air Vehicles",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"BigPlane",
+          "products":[
+            {
+              "id":"7",
+              "name":"Bombardier Aircraft",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "8",
+      "titlec": "Little Ones",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"Anti Personnal mine",
+          "products":[
+            {
+              "id":"8",
+              "name":"claymore",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "9",
+      "titlec": "Big Bombs",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"Missiles ground to ground",
+          "products":[
+            {
+              "id":"9",
+              "name":"Mortar 120mm",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "2",
+          "titlesc":"Missiles air ground",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"10",
+              "name":"H42 Bomb",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "3",
+          "titlesc":"Missiles air air",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"11",
+              "name":"C62 Rocket",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "4",
+          "titlesc":"Formation Missiles",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"12",
+              "name":"Formation Ground ground",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "5",
+          "titlesc":"Kamikazes",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"13",
+              "name":"1.8m Daesh Soldier",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "6",
+          "titlesc":"Bombes Spaciales",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"14",
+              "name":"High Rocket KT8989",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "7",
+          "titlesc":"Lanceurs de bombes",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"15",
+              "name":"Mortar Launcher 120mm",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "8",
+          "titlesc":"Bombes bio chimiques",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"16",
+              "name":"Covid-19 Liquid Bomb",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "9",
+          "titlesc":"Nuclear Bombs",
+          "img": "../assets/shotgun",
+          "products":[
+            {
+              "id":"17",
+              "name":"Tsar Bomba",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"18",
+              "name":"Ivy Mike",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"19",
+              "name":"MK 24",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"20",
+              "name":"Shrimp",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"21",
+              "name":"B53",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"22",
+              "name":"B41",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"23",
+              "name":"Little Boy",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"24",
+              "name":"TX 14",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"25",
+              "name":"Cheap One",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            },
+            {
+              "id":"26",
+              "name":"Handmade",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]},
+          {
+          "idsc": "10",
+          "titlesc":"Dynamite",
+          "products":[
+            {
+              "id":"27",
+              "name":"100G TNT",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]},
+      {
+      "idc": "10",
+      "titlec": "Vehicles",
+      "img": "../assets/shotgun",
+      "sub_categories":[
+        {
+          "idsc": "1",
+          "titlesc":"Tanks",
+          "products":[
+            {
+              "id":"28",
+              "name":"Lincoln 1",
+              "weight": "none",
+              "size": "400mm",
+              "power": "15j",
+              "impactsize": "20mm",
+              "dateOfRelease":"15-02-1995",
+              "country": "USA",
+              "shippingTime": "35 Days",
+              "price": 4500.00,
+              "quantity": 1,
+              "description":"USA Military FireArm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
